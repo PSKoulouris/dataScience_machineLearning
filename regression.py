@@ -1,3 +1,8 @@
+"""
+Regression VS KNN classification
+
+"""
+
 import numpy as np
 import pandas as pd
 from io import StringIO
